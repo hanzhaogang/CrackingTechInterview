@@ -14,3 +14,10 @@ https://zhuanlan.zhihu.com/p/20712931
 
 website：
 https://www.hiredintech.com/app#system-design
+
+
+3 bq
+
+http://kraftshala.com/how-to-raise-the-bar-in-the-amazon-interview/
+https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/
+http://www.1point3acres.com/bbs/thread-307462-1-1.html

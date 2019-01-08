@@ -1,0 +1,30 @@
+/*
+ * 1 algo
+ * merge sort vs quick sort
+ * hash table 
+ * linked list vs array
+ * lru least recently used cache.
+ * 
+ * 
+ * 2 os
+ * process vs thread
+ * process messaging methods 
+ * heap vs stack
+ * container vs vm
+ * 
+ * 
+ * 3 network
+ * tcp vs udp
+ * tcp time_wait
+ ?
+ * what happens when you enter a url and press enter?
+ * 
+ * 
+ * 4 database
+ * sql explain
+ * 3 sql database and 3 no-sql database
+ * database transaction
+ * how to deal database pressure?
+ * 
+ * 5 distributed system
+ */
